@@ -1,4 +1,4 @@
-import "/src/style.css";
+
 
 // Initialize all functionality when DOM is loaded
 document.addEventListener("DOMContentLoaded", () => {
